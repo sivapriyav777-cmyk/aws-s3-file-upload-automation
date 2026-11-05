@@ -1,0 +1,6 @@
+{
+    "bucket_name": "your-s3-bucket-name",
+    "region": "ap-south-1",
+    "max_retries": 3,
+    "file_type": ".csv"
+}
