@@ -1,0 +1,31 @@
+aws-s3-file-upload-automation/
+
+ src/
+
+upload.py
+
+validation.py
+
+logging_config.py
+
+init.py
+
+ tests/
+
+test_upload.py
+
+test_validation.py
+
+ sample_data/
+
+sample.csv
+
+ config/
+
+config.example.json
+
+ requirements.txt
+
+ .gitignore
+
+ README.md
